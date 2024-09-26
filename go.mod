@@ -1,4 +1,4 @@
-module isfj
+module github.com/origamizyt/isfj
 
 go 1.23.0
 
